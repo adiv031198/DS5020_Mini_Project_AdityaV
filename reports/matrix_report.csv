@@ -1,0 +1,7 @@
+measure,value
+customers (rows),5473.0
+products (cols),3687.0
+non-zeros,413927.0
+sparsity %,97.95
+dense memory (MB),161.4
+sparse memory (MB),5.0
