@@ -223,3 +223,9 @@ data/
 *.xlsx
 *.zip
 *.npz
+
+data/
+*.xlsx
+*.zip
+*.npz
+*.parquet
