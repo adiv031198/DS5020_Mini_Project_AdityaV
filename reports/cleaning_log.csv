@@ -1,0 +1,8 @@
+step,rows_after,rows_removed
+raw data,1067371,0
+remove cancellations (Invoice starts with C),1047877,19494
+remove lines without Customer ID,805620,242257
+remove non-positive quantity,805620,0
+remove non-positive price,805549,71
+remove non-product codes,802632,2917
+remove exact duplicate rows,776577,26055
