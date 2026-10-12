@@ -1,0 +1,9 @@
+Measure,PCA,Truncated SVD
+k used,50,50
+Fit time (s),0.6,0.64
+Peak memory during fit (MB),8.3,9.7
+Size of stored factors (MB),3.69,3.66
+Variance explained / relative reconstruction error,27.4% variance explained,0.832 rel. error
+Hit rate at 10,0.404,0.4
+Best-seller baseline hit rate at 10,0.269,0.269
+Corr. of component 1 with basket size,0.98,0.98
